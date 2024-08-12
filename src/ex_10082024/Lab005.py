@@ -1,2 +1,3 @@
-print(max(34,100))
+print("Good", "Pramod", sep="?",end="_")
+print("Amit")
 
