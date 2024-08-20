@@ -8,6 +8,6 @@ if num1 > num2:
     print("Number1 is greater than Number2")
 elif num1 == num2:
     print("Number1 is equal to Number2")
-else: (
-    print("Number2 is greater than Number1"))
-
+else:
+    (
+        print("Number2 is greater than Number1"))
