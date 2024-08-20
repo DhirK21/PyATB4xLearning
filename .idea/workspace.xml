@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="All the Files for Aug 13th, 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task 3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB4xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB4xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="All the Files for Aug 20th, 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Lab0023-Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Lab0026-Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task 6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,10 +90,15 @@
     "Python.Task 6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Dhir/PycharmProjects/PyATB4xLearning",
+    "last_opened_file_path": "C:/Users/Dhir/PycharmProjects/PyATB4xLearning/src/Tasks",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dhir\PycharmProjects\PyATB4xLearning\src\Tasks" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Lab042">
     <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
@@ -185,13 +182,30 @@
       <option name="project" value="LOCAL" />
       <updated>1723586800852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All the Files for Aug 20th, 2024 added">
+      <option name="closed" value="true" />
+      <created>1724177515075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724177515075</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All the Files for Aug 20th, 2024 added">
+      <option name="closed" value="true" />
+      <created>1724177659222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724177659222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All the Files for Aug 10, 2024 added" />
     <MESSAGE value="All the Files for Aug 13th, 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the Files for Aug 13th, 2024 added" />
+    <MESSAGE value="All the Files for Aug 20th, 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the Files for Aug 20th, 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
