@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="All the Files for Aug 20th, 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Lab0023-Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Lab0026-Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task 9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +88,8 @@
     "Python.Task 4.executor": "Run",
     "Python.Task 5.executor": "Run",
     "Python.Task 6.executor": "Run",
+    "Python.Task 8.executor": "Run",
+    "Python.Task 9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Dhir/PycharmProjects/PyATB4xLearning/src/Tasks",
@@ -99,7 +101,7 @@
       <recent name="C:\Users\Dhir\PycharmProjects\PyATB4xLearning\src\Tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab042">
+  <component name="RunManager">
     <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -198,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724177659222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All the Files for Aug 20th, 2024 added">
+      <option name="closed" value="true" />
+      <created>1724178434195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724178434195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
