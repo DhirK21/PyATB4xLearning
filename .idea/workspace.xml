@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 24th, 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/python_package/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 27th, 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724774719433</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Class Work for Aug 27th, 2024">
+      <option name="closed" value="true" />
+      <created>1724867033212</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724867033212</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,7 +292,8 @@
     <MESSAGE value="Task 7, 8 and 9 completed" />
     <MESSAGE value="Class Work for Aug 22nd, 2024 and Task 10 and 11 addedd" />
     <MESSAGE value="Class Work for Aug 24th, 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 24th, 2024" />
+    <MESSAGE value="Class Work for Aug 27th, 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 27th, 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
