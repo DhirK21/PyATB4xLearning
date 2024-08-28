@@ -4,20 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 22nd, 2024 and Task 10 and 11 addedd">
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/__Init__.py" afterDir="false" />
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 24th, 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/python_package/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,18 +50,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DhirK21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DhirK21&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DhirK21/PyATB4xLearning.git",
-    "accountId": "855283a7-cd4a-4b0c-bad1-00ce429506b9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DhirK21/PyATB4xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;855283a7-cd4a-4b0c-bad1-00ce429506b9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -120,6 +128,23 @@
     "Python.Lab070.executor": "Run",
     "Python.Lab071.executor": "Run",
     "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
     "Python.Task 3.executor": "Run",
@@ -129,6 +154,7 @@
     "Python.Task 7.executor": "Run",
     "Python.Task 8.executor": "Run",
     "Python.Task 9.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Dhir/PycharmProjects/PyATB4xLearning/src/Tasks",
@@ -263,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724426547983</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Class Work for Aug 24th, 2024">
+      <option name="closed" value="true" />
+      <created>1724774719433</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724774719433</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,7 +306,8 @@
     <MESSAGE value="All the Files for Aug 20th, 2024 added" />
     <MESSAGE value="Task 7, 8 and 9 completed" />
     <MESSAGE value="Class Work for Aug 22nd, 2024 and Task 10 and 11 addedd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 22nd, 2024 and Task 10 and 11 addedd" />
+    <MESSAGE value="Class Work for Aug 24th, 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 24th, 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
