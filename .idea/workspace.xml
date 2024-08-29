@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 27th, 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 29th, 2024">
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_29082024/Lab104.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +132,9 @@
     "Python.Lab099.executor": "Run",
     "Python.Lab100.executor": "Run",
     "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
     "Python.Task 3.executor": "Run",
@@ -309,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724867699177</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Class Work for Aug 29th, 2024">
+      <option name="closed" value="true" />
+      <created>1724943974431</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724943974431</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,7 +322,8 @@
     <MESSAGE value="Class Work for Aug 22nd, 2024 and Task 10 and 11 addedd" />
     <MESSAGE value="Class Work for Aug 24th, 2024" />
     <MESSAGE value="Class Work for Aug 27th, 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 27th, 2024" />
+    <MESSAGE value="Class Work for Aug 29th, 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 29th, 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -20,14 +20,17 @@ print("**********************")
 student_infor["age"] = 100
 print(student_infor)
 print("**********************")
-student_infor = dict(name="Pramod", age=67, address="KA")
-# A dictionary is an unordered collection of data
 
+
+student_infor = dict(name="Pramod", age=67, address="KA")
+print(student_infor)
+# A dictionary is an unordered collection of data
+print("**********************")
 
 student_infor1 = {
-    "name": "Pramod",
+    "name": "Dhir",
     # "age": 65,
-    "age": 67,
+    "age": 30,
     "address": {
         "home_address": "ND",
         "office_address": "KA"
