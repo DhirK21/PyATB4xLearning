@@ -3,20 +3,23 @@
 # name -> "Pramod"
 
 student_infor = {
-    "name": "Pramod",
+    "name": "Dhir",
     # "age": 65,
-    "age": 67,
+    "age": 30,
     "address": "KA"
 }
 
 print(student_infor)
+print("**********************")
 print(student_infor["name"])
+print("**********************")
 print(student_infor["age"])
+print("**********************")
 print(student_infor["address"])
-
+print("**********************")
 student_infor["age"] = 100
 print(student_infor)
-
+print("**********************")
 student_infor = dict(name="Pramod", age=67, address="KA")
 # A dictionary is an unordered collection of data
 
