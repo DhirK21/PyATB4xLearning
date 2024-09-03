@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 29th, 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab_dict_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 31st, 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -339,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724944354749</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Class Work for Aug 31st, 2024">
+      <option name="closed" value="true" />
+      <created>1725391030578</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725391030578</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -351,7 +350,8 @@
     <MESSAGE value="Class Work for Aug 24th, 2024" />
     <MESSAGE value="Class Work for Aug 27th, 2024" />
     <MESSAGE value="Class Work for Aug 29th, 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 29th, 2024" />
+    <MESSAGE value="Class Work for Aug 31st, 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Aug 31st, 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
