@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 29th, 2024">
-      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_29082024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab_dict_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +142,11 @@
     "Python.Lab102.executor": "Run",
     "Python.Lab103.executor": "Run",
     "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
+    "Python.Lab_dict_ex.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
     "Python.Task 3.executor": "Run",
@@ -311,7 +323,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724943974431</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Class Work for Aug 29th, 2024">
+      <option name="closed" value="true" />
+      <created>1724944193203</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724944193203</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Class Work for Aug 29th, 2024">
+      <option name="closed" value="true" />
+      <created>1724944354749</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724944354749</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -332,6 +360,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_31082024/Lab108.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
