@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 31st, 2024" />
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Aug 31st, 2024">
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/normal_dir/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/python_package/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/python_package/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,6 +154,16 @@
     "Python.Lab107.executor": "Run",
     "Python.Lab108.executor": "Run",
     "Python.Lab109.executor": "Run",
+    "Python.Lab110.executor": "Run",
+    "Python.Lab111.executor": "Run",
+    "Python.Lab112.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
+    "Python.Lab119.executor": "Run",
+    "Python.Lab120.executor": "Run",
     "Python.Lab_dict_ex.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
@@ -157,6 +184,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dhir\PycharmProjects\PyATB4xLearning\src\Tasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dhir\PycharmProjects\PyATB4xLearning\src\Aug_2024" />
     </key>
   </component>
   <component name="RunManager">
@@ -338,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725391030578</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Class Work for Aug 31st, 2024">
+      <option name="closed" value="true" />
+      <created>1725391324100</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725391324100</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,7 +400,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_31082024/Lab108.py</url>
+          <url>file://$PROJECT_DIR$/src/Aug_2024/ex_31082024/Lab108.py</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
