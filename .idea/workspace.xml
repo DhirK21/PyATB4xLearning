@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Sept 3rd, 2024">
-      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_05092024/Lab133.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab121.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept_2024/ex_03092024/Lab121.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +162,18 @@
     "Python.Lab119.executor": "Run",
     "Python.Lab120.executor": "Run",
     "Python.Lab121.executor": "Run",
+    "Python.Lab122.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125.executor": "Run",
+    "Python.Lab126.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab128.executor": "Run",
+    "Python.Lab129.executor": "Run",
+    "Python.Lab130.executor": "Run",
+    "Python.Lab131.executor": "Run",
+    "Python.Lab132.executor": "Run",
+    "Python.Lab133.executor": "Run",
     "Python.Lab_dict_ex.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
@@ -372,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725501030724</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Class Work for Sept 3rd, 2024">
+      <option name="closed" value="true" />
+      <created>1725648648837</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725648648837</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
