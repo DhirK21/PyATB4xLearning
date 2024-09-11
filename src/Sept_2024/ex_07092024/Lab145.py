@@ -19,3 +19,7 @@ class TC1:
 
 tc1 = TC1()
 tc1.runTC()
+print("**********************")
+
+MYSQLDBConnection.readMySQLFile()
+
