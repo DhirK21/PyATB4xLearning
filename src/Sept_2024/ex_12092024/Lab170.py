@@ -1,4 +1,4 @@
-# requests
+# requests --> Mostly used and interested
 # webdriver (selenium 4)
 # csv , os
 # pytest, json, allure report, xml, playwright, openpyxml, openpycsv,
