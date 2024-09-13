@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Sept 10th, 2024">
-      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/ExcelReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/MySQLdbReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/browserPackage/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/browserPackage/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/browserPackage/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +57,17 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2kRkoKCxjDYDW4w8zHRoz8CWel2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests in Lab169.py.executor": "Run",
     "Python.Lab0014.executor": "Run",
     "Python.Lab0015.executor": "Run",
     "Python.Lab0016.executor": "Run",
@@ -194,6 +209,9 @@
     "Python.Lab164.executor": "Run",
     "Python.Lab165.executor": "Run",
     "Python.Lab166.executor": "Run",
+    "Python.Lab167.executor": "Run",
+    "Python.Lab168.executor": "Run",
+    "Python.Lab172.executor": "Run",
     "Python.Lab_dict_ex.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
@@ -454,10 +472,19 @@
       <option name="project" value="LOCAL" />
       <updated>1726087292155</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Class Work for Sept 10th, 2024">
+      <option name="closed" value="true" />
+      <created>1726107299538</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726107299538</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="All the Files for Aug 10, 2024 added" />
     <MESSAGE value="All the Files for Aug 13th, 2024 added" />
     <MESSAGE value="All the Files for Aug 20th, 2024 added" />
