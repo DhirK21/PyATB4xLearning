@@ -1,0 +1,1 @@
+{"firstname":"Jim","lastname":"Jackson","totalprice":910,"depositpaid":true,"bookingdates":{"checkin":"2021-02-17","checkout":"2023-10-01"}}

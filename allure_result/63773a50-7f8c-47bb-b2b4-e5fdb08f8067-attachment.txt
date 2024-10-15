@@ -1,0 +1,4 @@
+Non-JSON response received: [{"bookingid":3},{"bookingid":8},{"bookingid":6},{"bookingid":9},{"bookingid":10},{"bookingid":4},{"bookingid":5},{"bookingid":1},{"bookingid":2},{"bookingid":7}] 200
+***********************
+[{"bookingid":3},{"bookingid":8},{"bookingid":6},{"bookingid":9},{"bookingid":10},{"bookingid":4},{"bookingid":5},{"bookingid":1},{"bookingid":2},{"bookingid":7}]
+[{'bookingid': 3}, {'bookingid': 8}, {'bookingid': 6}, {'bookingid': 9}, {'bookingid': 10}, {'bookingid': 4}, {'bookingid': 5}, {'bookingid': 1}, {'bookingid': 2}, {'bookingid': 7}]
