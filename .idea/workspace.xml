@@ -4,83 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Oct 8th, 2024">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/01e239fc-26f9-44f3-b7b9-bfe1dc9523e6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/0ac4b38f-63a7-4699-a590-ba0b3a3bca15-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/1089cc0b-c7ae-4517-8a79-b4c721322729-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/19d4da64-b421-42b8-81b3-63a163dc18f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/1f46775e-49db-4bd8-98ce-d9dc1e56fb55-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/1f70f312-3ccb-49d5-826b-b5ba8effc7cd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/22c14f4d-1371-449c-b019-b098d603b050-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/23234f06-3069-4b20-a174-e6644c8227ca-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/24ada78d-4833-4bc9-8b76-653224a6f807-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2b2922b1-77b4-4c76-96ed-f44235713580-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2b424c51-a996-4ca7-8b66-dd7c98c148f8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2bbffd3e-843d-4fe5-b34f-29e20f56760c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2fc2348c-905d-4afe-ab94-f48278ff4bfa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/30ab5fa9-aba8-4c9e-8de1-e72d0f56849a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/3461601a-331a-4792-a3af-0a39ed2e6ac2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/35a87675-5854-4a4d-99ec-f3caa1d9d04e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/4d5e3994-4113-4df4-8c68-abd4573e141c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/4e67c37f-9fea-4293-8940-26ba6919462f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/50b402e7-00e4-4146-aa85-3d5acffd7057-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/52ab8458-0bb8-428e-a666-fef85aeec32f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/56c50f6f-d4fe-4aa5-9f1c-960d721e4035-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/60070184-df06-4173-a139-a03b735d6288-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/6144185c-9a1d-4d56-a368-1fc60df9ec87-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/630692e6-7b8e-4447-b0c2-208bef01c217-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/6477734b-00e1-4bd2-95a0-8df18048d199-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/68807576-3d2a-46ec-bb42-bd94913bb996-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/73acaa6c-4044-46c0-b02d-6fc26de9642e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/76ad051d-a377-4c93-920a-6ef2a804d848-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/77a7cffd-a332-4462-95f5-5f337cd61921-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/7e401e0e-3b6b-444f-92d4-127f44c82e6d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/7f11eddd-ae2d-4ed4-b706-72e52fb56156-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/831ca66c-4947-4c00-be32-d09646cd7e87-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/8a16c5ba-d3ec-4f72-890d-fd021c884949-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/8f8aba40-f0b1-4eb1-b06b-b83bd5779454-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/90000f4f-244c-43e8-933d-8b7b792a67e5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/9181b1bf-cdd0-41f5-93ff-435b3055d6f2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/944c4123-1698-465e-be57-7d23cf024150-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/955072ce-d28b-413c-8cdf-11c94587ac74-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/96368c54-35e6-42b0-abdd-dca2c553376a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/97718504-f1eb-44ff-b8b9-65ab7254dd3d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/9779309c-1d1d-4a66-97ef-10fc2811652c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/9c9245b3-6227-4509-ab3d-968478b90d8c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a119f75c-1fd5-47f7-b28f-5de4acb41235-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a15965dd-4f5b-46d5-936a-efd212943c30-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a1b0b9ad-518f-4353-b599-6a4d9fd6cbfa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a4bed62d-7ea7-4c14-bd39-55c5267cd8f6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/b08a780c-bf02-4600-a523-bcdc22369ea2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/b110932e-79ee-4b34-8ed7-330d70eb4b29-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/b282a149-df19-456d-9093-006926229565-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/b2c31fbd-ccf5-4da5-9b3c-3a348f499629-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/b45df759-f892-4f7a-9119-6ff0f563870f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/be7623a8-dde8-4192-97dd-e76ccdebb10e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/c4d93622-029c-4c0e-ac12-45dfe10ecd69-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/c694f8da-6a02-452f-a8b8-9037d9718927-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/ca6186d4-efcb-4787-b343-dcc5f72889c3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/ccc00843-46f7-4cf5-bc4c-673053973b05-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e5dc4e4f-7f63-43ad-bf4d-bf8016945979-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e79c3933-3454-4468-ab5d-576127bbe12e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e9101ee2-ec28-4f2c-b2c2-656ef0ec372b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/edce09ac-19e2-40d4-a78e-358e44704be1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/f5d491e4-dc98-4734-a221-cdb1e09bf2c4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/f6605d7a-fdb5-485f-968c-306b600cf8d8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/fe60b124-2f65-424a-b356-a21d504263ee-container.json" afterDir="false" />
+    <list default="true" id="09105279-a86e-4934-bd44-f0db86722662" name="Changes" comment="Class Work for Oct 10th, 2024">
+      <change afterPath="$PROJECT_DIR$/allure_result/00a75c8b-71ec-4665-81d3-cf84f964396b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/5c84967f-0628-44cb-bdd8-23ac04c5d827-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/803a562c-5503-4735-b204-bf4b129e2e26-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a0261d3f-7b34-440a-aa7a-d895c91ce8f9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e98bef4e-80e7-4d86-8879-5b8185f6ef87-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Oct_2024/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab181.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab182.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab183.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab185.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab186.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab187.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct_2024/test_Lab189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct_2024/userdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab167.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept_2024/ex_12092024/Lab167.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,8 +71,11 @@
     "Python tests.Python tests for test_Lab183.test_consume.executor": "Run",
     "Python tests.Python tests for test_Lab185.test_update_req_1.executor": "Run",
     "Python tests.Python tests for test_Lab187.test_update_req.executor": "Run",
+    "Python tests.Python tests for test_Lab188.Test_CRUD.executor": "Run",
+    "Python tests.Python tests for test_Lab189.Test_CRUD.executor": "Run",
     "Python tests.Python tests in Lab169.py.executor": "Run",
     "Python tests.Python tests in test_Lab177.py.executor": "Run",
+    "Python tests.Python tests in test_Lab189.py.executor": "Run",
     "Python.Lab0014.executor": "Run",
     "Python.Lab0015.executor": "Run",
     "Python.Lab0016.executor": "Run",
@@ -310,7 +248,7 @@
       <recent name="C:\Users\Dhir\PycharmProjects\PyATB4xLearning\src\Aug_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab187.test_update_req">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab189.Test_CRUD">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -331,21 +269,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab180.test_delete" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct_2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab180.test_delete&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_Lab183.test_consume" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -393,7 +316,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab177.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab188.Test_CRUD" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -404,17 +327,32 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Oct_2024/test_Lab177.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_Lab188.Test_CRUD&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab189.Test_CRUD" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct_2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab189.Test_CRUD&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab189.Test_CRUD" />
+        <item itemvalue="Python tests.Python tests for test_Lab188.Test_CRUD" />
         <item itemvalue="Python tests.Python tests for test_Lab187.test_update_req" />
         <item itemvalue="Python tests.Python tests for test_Lab185.test_update_req_1" />
         <item itemvalue="Python tests.Python tests for test_Lab183.test_consume" />
-        <item itemvalue="Python tests.Python tests for test_Lab180.test_delete" />
-        <item itemvalue="Python tests.Python tests in test_Lab177.py" />
       </list>
     </recent_temporary>
   </component>
@@ -634,7 +572,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729009486518</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Class Work for Oct 10th, 2024">
+      <option name="closed" value="true" />
+      <created>1729092961136</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729092961136</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -665,7 +611,8 @@
     <MESSAGE value="Class Work for Sept 10th, 2024" />
     <MESSAGE value="Class Work for Sept 12th, 2024" />
     <MESSAGE value="Class Work for Oct 8th, 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Oct 8th, 2024" />
+    <MESSAGE value="Class Work for Oct 10th, 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Work for Oct 10th, 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -689,6 +636,10 @@
           <url>file://$PROJECT_DIR$/src/Oct_2024/test_Lab185.py</url>
           <line>5</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Oct_2024/test_Lab188.py</url>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
